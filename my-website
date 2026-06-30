@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Simple Website</title>
+</head>
+
+<body>
+
+  <header>
+    <h1>My First Website Project</h1>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>About Me</h2>
+      <p>This is a simple website created for my HTML project.</p>
+    </section>
+
+    <section>
+      <h2>My Favorite Things</h2>
+      <ul>
+        <li>Programming</li>
+        <li>Music</li>
+        <li>Sports</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Gallery</h2>
+
+      <img src="https://via.placeholder.com/300x200" alt="Sample image 1">
+      <img src="https://via.placeholder.com/300x200" alt="Sample image 2">
+      <img src="https://via.placeholder.com/300x200" alt="Sample image 3">
+
+    </section>
+
+    <section>
+      <h2>Useful Link</h2>
+      <a href="https://www.google.com" target="_blank">Go to Google</a>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 My Website</p>
+  </footer>
+
+</body>
+</html>
